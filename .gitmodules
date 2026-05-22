@@ -5,3 +5,6 @@
 [submodule "outlying"]
 	path = outlying
 	url = https://github.com/p10911004-npust/outlying
+[submodule "venny"]
+	path = venny
+	url = https://github.com/p10911004-npust/venny
