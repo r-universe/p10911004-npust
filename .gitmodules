@@ -5,6 +5,9 @@
 [submodule "normality"]
 	path = normality
 	url = https://github.com/p10911004-npust/normality
+[submodule "oneway"]
+	path = oneway
+	url = https://github.com/p10911004-npust/oneway
 [submodule "outlying"]
 	path = outlying
 	url = https://github.com/p10911004-npust/outlying
